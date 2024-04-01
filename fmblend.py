@@ -37,8 +37,7 @@ def get_similar(api_key, track, artist):
 
 
 
-# Usage
-api_key = '345ec1ae02d615b7a7fadbece710e91b'
+
 username = input("Enter a last.fm username: ")
 username2 = input("Enter a second last.fm username:")
 period = input("Enter the period of time you want to see your top songs for (7day, 1month, 3month, 6month, 12month, overall): ")
